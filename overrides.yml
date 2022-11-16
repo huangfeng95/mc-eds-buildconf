@@ -11,5 +11,5 @@ overrides:
       branch: $ROCK_BRANCH
       tag: 2.0.0
       
-#  - tools/pocolog_pybind:
-#      branch: eds
+ - tools/pocolog_pybind:
+     branch: eds
